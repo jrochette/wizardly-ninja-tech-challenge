@@ -41,9 +41,9 @@ jobs:
       # run tests!
       - run: mvn test
 
-  deployment:
-    staging:
-      branch: master
-      heroku:
-        appname: intense-citadel-89033
+deployment:
+  staging:
+    branch: master
+    heroku:
+      appname: intense-citadel-89033
 
