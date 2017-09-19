@@ -6,7 +6,7 @@ The ninja tech challenge implemented as a web app with [dropwizard](dropwizard.i
 
 App
 ---
-App is hosted at [https://intense-citadel-89033.herokuapp.com/rest]
+App is hosted at [https://intense-citadel-89033.herokuapp.com/]
 
 Metrics and health checks at [https://intense-citadel-89033.herokuapp.com/admin]
 
