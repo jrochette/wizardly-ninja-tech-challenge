@@ -4,7 +4,7 @@
   <groupId>io.ninja.jrochette</groupId>
   <artifactId>ninja-finder-wizard</artifactId>
   <name>NinjaWizardFinder</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <prerequisites>
     <maven>3.0.0</maven>
   </prerequisites>
