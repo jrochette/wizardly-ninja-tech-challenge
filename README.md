@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/jrochette/wizardly-ninja-tech-challenge.svg?style=svg)](https://circleci.com/gh/jrochette/wizardly-ninja-tech-challenge)
 
-The ninja tech challenge implemented as a web app with [dropwizard](dropwizard.io) and hosted on [heroku](heroku.com)
+The ninja tech challenge implemented as a web app with [dropwizard](dropwizard.io), built in [circleci](circleci.com) and hosted on [heroku](heroku.com)
 
 App
 ---
