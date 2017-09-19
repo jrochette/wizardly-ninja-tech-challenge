@@ -16,7 +16,7 @@ import io.ninja.jrochette.core.NinjaFinderService;
 import io.ninja.jrochette.resources.models.RequestModel;
 import io.ninja.jrochette.resources.models.ResponseModel;
 
-@Path("/rest")
+@Path("/")
 @Produces(MediaType.APPLICATION_JSON)
 public class NinjaFinderResource {
 	private final NinjaFinderService ninjaFinderService;
@@ -28,7 +28,7 @@ public class NinjaFinderResource {
 	@GET
 	@Timed
 	public ResponseModel<String> sayHello(@QueryParam("name") Optional<String> name) {
-		return new ResponseModel<String>().withValue("Hello there!");
+		return new ResponseModel<String>().withValue("Hello there! Welcome to the wizardly ninja finder!");
 	}
 
 	@POST
